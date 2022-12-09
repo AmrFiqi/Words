@@ -1,5 +1,6 @@
 # Words App
-###(The app has a source code for the basics and I added my functions to the app with "My Addition" Comments)
+##(The app has a source code for the basics and I added my functions to the app with "My Addition" Comments)
+
 This folder contains the source code for the Words app codelab.
 
 
